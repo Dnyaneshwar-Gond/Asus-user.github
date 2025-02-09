@@ -1,3 +1,3 @@
 # Asus-user.github
-this is my first repository
+this is my first repository.
 Ahthor-dnyaneshwar gond
